@@ -1,0 +1,6 @@
+{
+  "name": "極限空戰 1944 (AirAttack 2 Web 復刻版)",
+  "description": "以 Three.js 打造的 3D 縱軸二戰空戰遊戲，具備空對空射擊與戰術俯衝地面轟炸雙層戰場、物理粒子爆破、防空砲兵工廠與合成音效體驗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
